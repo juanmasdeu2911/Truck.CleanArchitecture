@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.2</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Truck.Application\Truck.Application.csproj" />
+    <ProjectReference Include="..\Truck.Common\Truck.Common.csproj" />
+  </ItemGroup>
+
+</Project>
